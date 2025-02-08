@@ -1,0 +1,66 @@
+{
+    "version": "v1.0.0",
+    "entity": {
+        "type": "organisation",
+        "role": "owner",
+        "name": "Delegant Software",
+        "email": "tseliso@delegant.co.za",
+        "phone": "",
+        "description": "Delegant Software provides enterprise software development services in South Africa.  Delegant Software also partners with startups to assist them to effectively use open source software for their operations.  One such start up is Procure Africa which is co-owned by\n one with Delegant Software by Mr Tseliso Mosiuoa",
+        "webpageUrl": {
+            "url": "https://www.delegant.co.za",
+            "wellKnown": ""
+        }
+    },
+    "projects": [{
+        "guid": "green-procure",
+        "name": "GreenProcure",
+        "description": "A software solution that helps organizations and businesses make environmentally and socially responsible procurement decisions.  Environment and Social Responsibility are now a must for every organisation.",
+        "webpageUrl": {
+            "url": "https://www.delegant.software.co.za/greenprocure"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/bushboy/greenprocure",
+            "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:AGPL-3.0"],
+        "tags": ["database", "columnar-database", "high-performance", "key-value-store"]
+    }
+    ],
+    "funding": {
+        "channels": [
+            {
+                "guid": "mybank",
+                "type": "bank",
+                "address": "",
+                "description": "Will accept direct bank transfers. Please e-mail me for details."
+            },
+        ],
+        "plans": [
+            {
+                "guid": "developer-time",
+                "status": "active",
+                "name": "Developer compensation",
+                "description": "This will cover the cost of two developers working part-time on the projects.",
+                "amount": 2000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["mybank"]
+            },
+            {
+                "guid": "angel-plan",
+                "status": "active",
+                "name": "Goodwill plan",
+                "description": "Pay anything you wish to show your goodwill for the project.",
+                "amount": 0,
+                "currency": "USD",
+                "frequency": "one-time",
+                "channels": ["mybank", "mypay"]
+            }
+        ],
+        "history": [
+            {"year": 2020, "income": 10000, "expenses": 2000, "taxes": 200, "currency": "USD", "description": "Started accepting donations for the first time."}
+        ]
+    }
+}
+
