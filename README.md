@@ -13,4 +13,4 @@ GreenProcure is an open-source platform designed to help organizations and busin
 
 ## NOTE
 
-- **This is an entirely new initiative.  Lots of behind the scenes planning is still underway.  A portal will be developed in due course that provides more details.
+- This is an entirely new initiative.  Lots of behind the scenes planning is still underway.  A portal will be developed in due course that provides more details.
