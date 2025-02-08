@@ -17,14 +17,14 @@
         "name": "GreenProcure",
         "description": "A software solution that helps organizations and businesses make environmentally and socially responsible procurement decisions.  Environment and Social Responsibility are now a must for every organisation.",
         "webpageUrl": {
-            "url": "https://github.com/bushboy/greenprocure/blob/f9e7177009d3e0cfd7dd15e25f16aad56ba0e7ba/README.md"
+            "url": "https://www.procureafrica.co.za"
         },
         "repositoryUrl": {
-            "url": https://github.com/bushboy/greenprocure",
+            "url": "https://github.com/bushboy/greenprocure",
             "wellKnown": ""
         },
         "licenses": ["spdx:MIT"],
-        "tags": ["database", "columnar-database", "high-performance", "key-value-store"]
+        "tags": ["procurement", "esg", "environment", "social responsibility"]
     }
     ],
     "funding": {
@@ -34,7 +34,7 @@
                 "type": "bank",
                 "address": "",
                 "description": "Will accept direct bank transfers. Please e-mail me for details."
-            },
+            }
         ],
         "plans": [
             {
@@ -55,7 +55,7 @@
                 "amount": 0,
                 "currency": "USD",
                 "frequency": "one-time",
-                "channels": ["mybank", "mypay"]
+                "channels": ["mybank"]
             }
         ],
         "history": [
