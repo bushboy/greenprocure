@@ -11,4 +11,6 @@ GreenProcure is an open-source platform designed to help organizations and busin
 - **Community and Collaboration**: Platform for sharing best practices, success stories, and collaborating on sustainable procurement initiatives.
 - **Integration with Existing Systems**: Seamless integration with popular procurement and supply chain management software.
 
-This is a new initiative.  Lots of behind the scenes planning is still underway.  A portal will be developed in due course that provides more details.
+## NOTE
+
+- **This is an entirely new initiative.  Lots of behind the scenes planning is still underway.  A portal will be developed in due course that provides more details.
