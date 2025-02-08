@@ -3,12 +3,12 @@
     "entity": {
         "type": "organisation",
         "role": "owner",
-        "name": "Delegant Software",
+        "name": "Procure Africa",
         "email": "tseliso@delegant.co.za",
         "phone": "",
-        "description": "Delegant Software provides enterprise software development services in South Africa.  Delegant Software also partners with startups to assist them to effectively use open source software for their operations.  One such start up is Procure Africa which is co-owned by\n one with Delegant Software by Mr Tseliso Mosiuoa",
+        "description": "Procure Africa is building an African B2B Digital Market place focused on connecting buyers with suppliers who meet their stringent procurement compliance specifications.  ESG is emerging as a necessary aspect of this compliance.  There is no library or software platform out there that organisations can pick up and include in their own procurement process that can assist them with ESG.  Our wish is to build this platform and share it as open source.",
         "webpageUrl": {
-            "url": "https://www.delegant.co.za",
+            "url": "https://www.procureafrica.co.za",
             "wellKnown": ""
         }
     },
@@ -17,13 +17,13 @@
         "name": "GreenProcure",
         "description": "A software solution that helps organizations and businesses make environmentally and socially responsible procurement decisions.  Environment and Social Responsibility are now a must for every organisation.",
         "webpageUrl": {
-            "url": "https://www.delegant.software.co.za/greenprocure"
+            "url": "https://www.procureafrica.co.za"
         },
         "repositoryUrl": {
-            "url": "https://github.com/bushboy/greenprocure",
-            "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
+            "url": https://github.com/bushboy/greenprocure",
+            "wellKnown": ""
         },
-        "licenses": ["spdx:AGPL-3.0"],
+        "licenses": ["spdx:MIT"],
         "tags": ["database", "columnar-database", "high-performance", "key-value-store"]
     }
     ],
@@ -42,7 +42,7 @@
                 "status": "active",
                 "name": "Developer compensation",
                 "description": "This will cover the cost of two developers working part-time on the projects.",
-                "amount": 2000,
+                "amount": 4000,
                 "currency": "USD",
                 "frequency": "monthly",
                 "channels": ["mybank"]
@@ -59,7 +59,6 @@
             }
         ],
         "history": [
-            {"year": 2020, "income": 10000, "expenses": 2000, "taxes": 200, "currency": "USD", "description": "Started accepting donations for the first time."}
         ]
     }
 }
